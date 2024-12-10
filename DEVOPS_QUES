@@ -22,5 +22,13 @@ What are the key things to do to secure ur application?
 What is SSL termination ?
 What is mutable and immutable infrastructure?Docker is immutable
 How have you used terraform in ur project?
+Details about the terraform file
+What is drift in IaaC?
+What is the use of terraform state file?
+How did you manage any outage or any deployment issue in pipeline?
+What are the types of pipeline that you have created and the commonly faced challenges?
+How do you learn new concepts ?
+
+
 
 
