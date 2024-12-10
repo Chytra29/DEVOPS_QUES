@@ -7,6 +7,7 @@ Tell me about few tasks that you have pwerformed in your projects?
 --------------------------------------------------------------------------------------------------------------------
 
 How to design a highly available and fault tolerant architecture in AWS?What are the key things to focus?
+How to invoke any application endpoint from sns
 What are the main challenges while designing a multizone or multi reqhion setup?
 How do you manage the database consistency for multiregion setup?
 What are the different steps that happens when a user types a website url in browser?
